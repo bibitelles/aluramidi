@@ -2,7 +2,7 @@
   
 </details>
     
-![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
+![Thumbnails AluraMidi](https://user-images.githubusercontent.com/119821121/207201599-75f92ae5-77fd-40be-b4fe-7b30dfae014f.png)
     
 </details>
   
