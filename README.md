@@ -25,6 +25,6 @@ O MIDI tem um teclado digitial com 9 botões, cada botão reproduzirá o som de 
   - `template string`;
   - `event handlers`;
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/bibitelles/aluramidi).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/bibitelles/aluramidi/).
 ## 🛠️ Abrir e rodar o projeto
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
